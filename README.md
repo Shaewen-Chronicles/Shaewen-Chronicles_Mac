@@ -4,7 +4,9 @@ Shaewen-Chronicles
 
 Dies ist die Mac version von Die Shaewen-Chronicles
 
-Alpha v0.0.14 Veröffentlicht!!!
+Alpha v0.0.15 Veröffentlicht!!!
+
+Erste Mission kann abgeschlossen werden!!!
 
 Dies hier ist ein von 2 Freunden entwickeltes Point and Klick Adventure
 
